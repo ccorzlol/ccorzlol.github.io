@@ -1,5 +1,5 @@
   
-// Initialize extra fields
+// Initialize extra fields, add addtional field during check out process
 ec = ec || {};
 ec.order = ec.order || {};
 ec.order.extraFields = ec.order.extraFields || {};
