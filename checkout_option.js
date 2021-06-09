@@ -20,10 +20,10 @@ ec.order.extraFields.how_did_you_find_us = {
 };
 
 ec.order.extraFields.order_onbehalf = {
-    'title': '下单人姓名',
-    'textPlaceholder': '填写下单人姓名',
+    'title': 'Recipient's name',
+    'textPlaceholder': 'Please fill in recipient's name',
     'type': 'text',
-    'tip': ' 下单人的名字',
+    'tip': '',
     'required': false,
     'checkoutDisplaySection': 'shipping_address'
 };
