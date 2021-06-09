@@ -19,5 +19,14 @@ ec.order.extraFields.how_did_you_find_us = {
     'checkoutDisplaySection': 'payment_details'
 };
 
+ec.order.extraFields.order_onbehalf = {
+    'title': '下单人姓名',
+    'textPlaceholder': '填写下单人姓名',
+    'type': 'text',
+    'tip': ' 下单人的名字',
+    'required': false,
+    'checkoutDisplaySection': 'shipping_address'
+};
+
 
 Ecwid.refreshConfig();
