@@ -21,8 +21,8 @@ ec.order.extraFields.how_did_you_find_us = {
 
 
 ec.order.extraFields.order_onbehalf = {
-    'title': 'Recipient\'s name',
-    'textPlaceholder': 'Please fill in recipient\'s name',
+    'title': 'Customer name',
+    'textPlaceholder': 'Please fill in customer name',
     'type': 'text',
     'tip': '',
     'required': false,
