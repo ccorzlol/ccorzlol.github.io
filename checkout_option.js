@@ -19,6 +19,7 @@ ec.order.extraFields.how_did_you_find_us = {
     'checkoutDisplaySection': 'payment_details'
 };
 
+
 ec.order.extraFields.order_onbehalf = {
     'title': 'Recipient's name',
     'textPlaceholder': 'Please fill in recipient's name',
