@@ -20,14 +20,14 @@ ec.order.extraFields.how_did_you_find_us = {
 };
 
 
-ec.order.extraFields.order_onbehalf = {
-    'title': 'Recipient\'s name',
-    'textPlaceholder': 'Please fill in recipient\'s name',
-    'type': 'text',
-    'tip': '',
-    'required': false,
-    'checkoutDisplaySection': 'shipping_address'
-};
+// ec.order.extraFields.order_onbehalf = {
+//     'title': 'Customer name',
+//     'textPlaceholder': 'Please fill in customer name',
+//     'type': 'text',
+//     'tip': '',
+//     'required': false,
+//     'checkoutDisplaySection': 'shipping_address'
+// };
 
 //ec.order.extraFields.order_onbehalf = {
 //   'title': '下单人姓名',
